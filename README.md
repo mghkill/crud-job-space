@@ -127,12 +127,12 @@ link API: https://crud-job-space-ps.herokuapp.com/
 
 ---
 
-## DELETE /api/leads/delete - Rota responsável por deletar as informações do usuário.
+## DELETE /api/leads/delete/<userId> - Rota responsável por DELETAR as informações do usuário.
 
 ### Corpo da resposta:
+  
+  SEM CORPO
+  
+### Corpo da resposta:
 
-```json
-{
-  "email": "novoemail@mail.com"
-}
-```
+  SEM CORPO -> STATUS 200 OK
