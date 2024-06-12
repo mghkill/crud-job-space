@@ -1,6 +1,6 @@
 # CRUD Job Space
 
-link API: https://crud-job-space-ps.herokuapp.com/
+ 
 
 ## POST /api/leads - Rota responsável pelo CADASTRO do usuário.
 
